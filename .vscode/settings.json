@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "python.defaultInterpreterPath": ".venv/bin/python"
+}
