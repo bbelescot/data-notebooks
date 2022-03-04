@@ -6,4 +6,5 @@ def multiply(x, y):
 
 
 def test_multiply():
+    assert multiply(3, 4) == 12
     assert multiply(3, 4) == 11
