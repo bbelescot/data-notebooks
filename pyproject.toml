@@ -18,7 +18,7 @@ black = {extras = ["jupyter"], version = "^22.3.0"}
 pytest = "^7.1.2"
 plotly = "^5.7.0"
 seaborn = "^0.11.2"
-matplotlib = "^3.5.1"
+matplotlib = "^3.5.2"
 pre-commit = "^2.19.0"
 jupyterlab-code-formatter = "^1.4.10"
 emoji = "^1.7.0"
