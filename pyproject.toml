@@ -10,7 +10,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.8"
-jupyterlab = "^3.4.2"
+jupyterlab = "^3.4.3"
 pyforest = "^1.1.0"
 pandas = "^1.4.2"
 numpy = "^1.22.4"
